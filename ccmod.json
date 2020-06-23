@@ -1,0 +1,7 @@
+{
+    "id": "map-watch",
+    "version": "2.0.0",
+    "title": "Map Watcher",
+    "description": "A mod that automatically loads a map when changes are detected",
+    "main": "plugin.js"
+}
