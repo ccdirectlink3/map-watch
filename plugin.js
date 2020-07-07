@@ -49,7 +49,7 @@ export default class MapWatcher {
 		}
 
 		if (mod != null) {
-			ccmod3.resources.assetOverridesTable.set(assetPath, fullFilePath);
+			ccmod.resources.assetOverridesTable.set(assetPath, fullFilePath);
 		}
 
 		this._loadMap(assetPath);

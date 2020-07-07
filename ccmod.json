@@ -3,5 +3,6 @@
     "version": "2.0.0",
     "title": "Map Watcher",
     "description": "A mod that automatically loads a map when changes are detected",
+    "homepage": "https://github.com/CCDirectLink/map-watch",
     "main": "plugin.js"
 }
